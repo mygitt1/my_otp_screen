@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946981760052",
+    "project_id": "otp-screen-d0eea",
+    "storage_bucket": "otp-screen-d0eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946981760052:android:bff4ef988dd5ea4bb82e61",
+        "android_client_info": {
+          "package_name": "com.example.my_otp_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946981760052-1s5ee5coti46dgmh3cjiuqhkfd5m0qvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBBcPE2t9f5Qn41VMbVlv9dXp-zpbDso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946981760052-1s5ee5coti46dgmh3cjiuqhkfd5m0qvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
